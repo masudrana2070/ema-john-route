@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Product.css';
 const Product = (props) => {
-console.log(props)
+
 const {name,img,price,stock,seller,key}=props.product;
     return (
         <div className="product">
