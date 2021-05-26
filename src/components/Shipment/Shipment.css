@@ -1,0 +1,9 @@
+form input{
+padding: 10px 10px;
+}
+form{
+margin: 5% 40%;
+}
+.error{
+    color:red;
+}
